@@ -1,8 +1,6 @@
 import csv
 import sys
 import os
-#lovingly crafted by Brian Sorensen (u0922372)
-#this is built to interface with DataCenter Port Make Live Request Spreadsheet vX.X
 
 #collect source CSV file from user
 user_input = raw_input("Enter full filepath of source CSV: ")
